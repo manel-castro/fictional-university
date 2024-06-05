@@ -1,0 +1,1 @@
+2024/06/05 18:26:45 [error] 41215#0: *641 directory index of "/Users/manelcastrofonseca/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/images/" is forbidden, client: ::1, server: , request: "GET /wp-content/themes/fictional-university-theme/images/ HTTP/1.1", host: "localhost:10004"
